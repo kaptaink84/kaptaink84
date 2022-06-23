@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kaptaink84
+- 👋 Hi, I’m Klaus
 - 👀 I’m interested in sovereignty and synergy.
-- 🌱 I’m currently learning blockchain tech, python.
 - 💞️ I’m looking to collaborate on decentralised tech for ecological harmony.
-- 📫 How to reach me ... https://twitter.com/KaptainK84
+- 📫 How to reach me ... https://twitter.com/KlausBrave
 
 <!---
 kaptaink84/kaptaink84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
